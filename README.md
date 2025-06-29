@@ -16,9 +16,7 @@ JiraWeather is an Atlassian Forge-powered app that brings live weather updates a
 
 ---
 
-## 📸 Screenshot
-
-> _(Replace with actual screenshot URL after uploading)_
+## 📸 App UI
 
 ![JiraWeather UI Preview](https://github.com/user-attachments/assets/ae4ad330-c484-4f79-a0c2-02c1690bb332)
 
